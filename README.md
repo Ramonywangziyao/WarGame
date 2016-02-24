@@ -1,4 +1,4 @@
-# WarGame
+# WarGame in JAVA
 An AI game. Play with the AI or watch AI vs AI
 
 # Feature
